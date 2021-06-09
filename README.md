@@ -3,6 +3,8 @@
  <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
  
+ 
+ 
  I'm a CyberSecurity and Flutter engineer and Tech Consultant.
  
 - 🔭 I’m currently working on Game Security
@@ -15,8 +17,8 @@
 
 - Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Own Tools For Vulnerability Assestment ✍️
-- App Development
-- Game Security
+- App Development 🧑‍💻
+- Game Security 🎮👾
 
 🛠**Tech**
 
