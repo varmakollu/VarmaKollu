@@ -22,7 +22,7 @@
 
 🛠**Tech**
 
-![CPP](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![CPP](https://img.shields.io/badge/-c++-000000?logo=c%2B%2B&style=flat&logoColor=0096FF)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=1AA2D4)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=fd5e53)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=FFFFFF)
