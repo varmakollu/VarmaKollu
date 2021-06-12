@@ -5,7 +5,7 @@
  
  
  
- I'm a CyberSecurity and Flutter engineer and Tech Consultant.
+ I'm a CyberSecurity & Digital Forensic's Expert and Tech Consultant.
  
 - 🔭 I’m currently working on Game Security
 - 👀 I’m interested in CyberSecurity & Flutter Development
@@ -22,6 +22,7 @@
 
 🛠**Tech**
 
+![CPP](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=1AA2D4)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=fd5e53)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=FFFFFF)
