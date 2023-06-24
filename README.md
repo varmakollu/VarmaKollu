@@ -2,20 +2,20 @@
  
 <img align="centre" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-I'm a CyberSecurity & Digital Forensic's Expert and Tech Consultant.
+I'm a CyberSecurity & Digital Forensic Expert and Tech Consultant.
  
-- 🔭 I’m currently working on Game Security
+- 🔭 I’m currently working on DeFi Security
 - 👀 I’m interested in CyberSecurity & Flutter Development
 - 🌱 I’m currently learning Bug Hunting
-- 🎯 I’m looking to collaborate on Flutter Developments , App Security
--  ⚡  I watch a lots of Movies specially Sc-Fi and Fantasy
+- 🎯 I’m looking to collaborate on Flutter Developments, App Security
+-  ⚡  I watch lots of Movies specially Sc-Fi and Fantasy
 
 💻 **Things I love**
 
 - Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Own Tools For Vulnerability Assestment ✍️
+- Own Tools For Vulnerability Assessment ✍️
 - App Development 🧑‍💻
-- Game Security 🎮👾
+- Web3 Security 🎮👾
 
 🛠**Tech**
 
