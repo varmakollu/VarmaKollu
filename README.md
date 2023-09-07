@@ -10,6 +10,9 @@ I'm a CyberSecurity & Digital Forensic Expert and Tech Consultant.
 - 🎯 I’m looking to collaborate on Flutter Developments, App Security
 -  ⚡  I watch lots of Movies especially Sc-Fi and Fantasy
 
+<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmaKollu&theme=tokyonight">
+
+
 💻 **Things I love**
 
 - Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -32,4 +35,3 @@ I'm a CyberSecurity & Digital Forensic Expert and Tech Consultant.
 ![Web3JS](https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ![VarmaKollu](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarmaKollu&theme=2077)
-![VarmaKollu](https://github-readme-stats.vercel.app/api/top-langs/?username=VarmaKollu&theme=tokyonight)
