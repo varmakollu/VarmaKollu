@@ -8,7 +8,7 @@ I'm a CyberSecurity & Digital Forensic Expert and Tech Consultant.
 - 👀 I’m interested in CyberSecurity & Flutter Development
 - 🌱 I’m currently learning Bug Hunting
 - 🎯 I’m looking to collaborate on Flutter Developments, App Security
--  ⚡  I watch lots of Movies specially Sc-Fi and Fantasy
+-  ⚡  I watch lots of Movies especially Sc-Fi and Fantasy
 
 💻 **Things I love**
 
@@ -19,10 +19,17 @@ I'm a CyberSecurity & Digital Forensic Expert and Tech Consultant.
 
 🛠**Tech**
 
-![CPP](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat&logoColor=0096FF)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=1AA2D4)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=fd5e53)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Web3JS](https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+![VarmaKollu](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarmaKollu&theme=2077)
+![VarmaKollu](https://github-readme-stats.vercel.app/api/top-langs/?username=VarmaKollu&theme=tokyonight)
