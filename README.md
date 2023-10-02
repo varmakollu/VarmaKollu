@@ -15,7 +15,7 @@ I'm a CyberSecurity & Digital Forensic Expert and Tech Consultant.
 
 - Solidity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Own Tools For Vulnerability Assessment ✍️
- -Dapps Development 🧑‍💻
+-Dapps Development 🧑‍💻
 - Web3 Security 🎮👾
 
 🛠**Tech**
