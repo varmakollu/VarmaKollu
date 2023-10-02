@@ -1,6 +1,6 @@
  #  Namaste, Varma Here! 👋
  
-<img align="right" src="https://media.giphy.com/media/ypumB0bzsADqo/giphy.gif" alt="Anime GIF" height="330">
+<img align="top" src="https://media.giphy.com/media/ypumB0bzsADqo/giphy.gif" alt="Anime GIF" height="330">
 
 
 I'm a CyberSecurity & Digital Forensic Expert and Tech Consultant.
