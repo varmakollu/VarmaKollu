@@ -3,12 +3,12 @@
 <img align="top" src="https://media1.tenor.com/m/7p2m8wGFSb8AAAAC/solo-leveling-sung-jin-woo.gif" alt="Anime GIF" height="330">
 
 
-I'm a CyberSecurity & Digital Forensic Expert and Web3 Developer.
+I'm a CyberSecurity Researcher and Web3 Developer.
  
 - 🔭 I’m currently working on DeFi Security
 - 👀 I’m interested in CyberSecurity & Dapps Development
 - 🌱 I’m currently learning Bug Hunting
-- 🎯 I’m looking to collaborate on Dapps Developments, App Security
+- 🎯 I’m looking to collaborate on Dapps Development, App Security
 -  ⚡  I watch lots of Movies, especially Sc-Fi and Fantasy
 
 💻 **Things I love**
