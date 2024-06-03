@@ -9,7 +9,7 @@ I'm a CyberSecurity Researcher and Web3 Developer.
 - 👀 I’m interested in CyberSecurity & Dapps Development
 - 🌱 I’m currently learning Bug Hunting
 - 🎯 I’m looking to collaborate on Dapps Development, App Security
--  ⚡  I watch lots of Movies, especially Sc-Fi and Fantasy
+-  ⚡  I watch lots of Movies, especially Sci-Fi and Fantasy
 
 💻 **Things I love**
 
